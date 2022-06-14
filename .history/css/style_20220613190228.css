@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(44, 44, 44);
+  color: rgb(242, 242, 242);
+}
+
+table{
+    border: 1px solid rgb(125,125,125);
+    margin: 150px;
+    width: 50%;
+    border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td{
+    border-bottom: 1px solid rgb(125,125,125);
+    padding: 15px;
+}
+
+.right-dot{
+  text-align: right;
+}
+
+button{
+  background-color: rgb(44, 44, 44);
+  border: none;
+}
+
+.gray-color{
+  color:rgb(125,125,125);
+}
+
+.white-dot{
+  color: rgb(242, 242, 242);
+}
+

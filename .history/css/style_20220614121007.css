@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(44, 44, 44);
+  color: rgb(242, 242, 242);
+}
+
+table {
+  border: 1px solid rgb(125, 125, 125);
+  margin: 150px;
+  width: 50%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td {
+  border-bottom: 1px solid rgb(125, 125, 125);
+  padding: 15px;
+  width: 270px;
+  height: 18px;
+}
+
+.right-dot {
+  text-align: right;
+}
+
+button {
+  background-color: rgb(44, 44, 44);
+  border: none;
+}
+
+.gray-color {
+  color: rgb(125, 125, 125);
+}
+
+.white-dot {
+  color: rgb(242, 242, 242);
+}
+
+.table2 img {
+  margin-right: 10px;
+  width: 15px;
+}
+.table3 img {
+  margin-right: 10px;
+  width: 15px;
+}
+
+.table3 img {
+  width: 20px;
+}
+
+input {
+  background-color: #444444;
+  opacity: 1;
+  float: right;
+  border: none;
+  border-radius: 5px;
+  background-image: url("/image/search.png");
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  /* padding: 12px 20px 12px 40px; */
+}

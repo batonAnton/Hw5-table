@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(44, 44, 44);
+  color: rgb(242, 242, 242);
+}
+
+table{
+    border: 1px solid #fff;
+    margin: 150px;
+    width: 60%;
+    border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td{
+    border-bottom: 1px solid #fff;
+    padding: 15px;
+}
+
+.right-dot{
+  text-align: right;
+}
+
