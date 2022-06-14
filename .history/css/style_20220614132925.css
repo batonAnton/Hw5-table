@@ -65,13 +65,14 @@ input {
   width: 257px;
 }
 
-div .checkbox-fields {
+.checkbox-fields {
   width: 15px;
   float: left;
   background-color: #444444;
 }
 
 label {
-  margin-top: 5px;
-  display: inline-block;
+  margin-top:5px;
+  display:inline-block;
 }
+
