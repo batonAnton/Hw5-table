@@ -36,7 +36,6 @@ button {
 }
 
 .table2 img {
-  margin-left: 5px;
   margin-right: 10px;
   width: 15px;
 }
@@ -65,14 +64,7 @@ input {
   width: 257px;
 }
 
-.checkbox-fields {
+.checkbox-fields{
   width: 15px;
   float: left;
-  background-color: #444444;
 }
-
-label {
-  margin-top:5px;
-  display:inline-block;
-}
-
