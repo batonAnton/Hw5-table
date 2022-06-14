@@ -54,13 +54,12 @@ input {
   float: right;
   border: none;
   border-radius: 5px;
-  background-image: url("/image/search.png");
+  background-image: url("../image/search.png");
   background-position: 10px 5px;
   background-repeat: no-repeat;
   padding: 12px 20px 12px 40px;
-    margin-right: 10px;
-    height: 25px;
-    padding-left: -26px;
-    width: 257px;
+  margin-right: 10px;
+  height: 25px;
+  padding-left: -26px;
+  width: 257px;
 }
-  
